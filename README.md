@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Batuhan Eralp</h1>
 <h3 align="center">Software Developer, Python Developer | AI/ML, Data Science, AWS, Data Pipelines | Building Production-Grade Models & Cloud-Native AI Systems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=batuhaneralp" alt="batuhaneralp" /></a> </p>
-
 - 🔭 I’m currently working at **DXC Luxoft**
 
 - 💬 Ask me about **AI, ML, DL, Data Science, Cloud**
 
-- 📫 How to reach me **batuhaneralp@hotmail.com**
+- 📫 How to reach me [**batuhaneralp@hotmail.com**](mailto:batuhaneralp@hotmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/batuhaneralp/](https://www.linkedin.com/in/batuhaneralp/)
+- 📄 Know about my experiences [**https://www.linkedin.com/in/batuhaneralp/**](https://www.linkedin.com/in/batuhaneralp/)
 
 - ⚡ Fun fact [**I am a registered Rubik's Cube Speedsolver**](https://www.worldcubeassociation.org/persons/2023ERAL02)
 
